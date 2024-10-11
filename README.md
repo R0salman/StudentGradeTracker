@@ -1,5 +1,5 @@
 # StudentGradeTracker
-# Project Description
+## Project Description
 The Student Grade Tracker is a Java application that allows users to input and analyze student grades across multiple subjects. It calculates average grades, identifies the highest and lowest grades for each student, and provides an overall class average.
 
 ## Features
