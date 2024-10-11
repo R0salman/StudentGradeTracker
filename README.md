@@ -7,26 +7,28 @@ User Input:
 
 Prompts for the number of students and subjects.
 Allows for grade input for each student and subject.
-Grade Calculation:
+### Grade Calculation:
 
 Calculates the average grade for each student.
 Identifies the highest and lowest grades for each student.
 Computes the overall class average.
-Statistics Display:
+### Statistics Display:
 
 Displays average, highest, and lowest grades for each student.
 Shows the overall class average.
-Error Handling:
+
+### Error Handling:
 
 Validates user input to ensure grades are between 0 and 100 and that the number of students and subjects is greater than 0.
+
 Provides informative error messages for invalid inputs.
 
 ## How to Compile and Run
 Prerequisites:
 
 **Ensure the Java Development Kit (JDK) is installed on your machine. **
-Compiling the Program:
 
+## Compiling the Program:
 Open a terminal or command prompt.
 Navigate to the directory containing StudentGradeTracker.java.
 Compile the program using:
